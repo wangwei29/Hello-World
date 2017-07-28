@@ -1,0 +1,3 @@
+// This is new file about story.txt
+// This is only for test
+// Hello World
